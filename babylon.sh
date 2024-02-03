@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Update and upgrade system packagess
+# Update and upgrade system packages
 sudo apt update && sudo apt upgrade -y
 
 # Set your node moniker provide your input here
